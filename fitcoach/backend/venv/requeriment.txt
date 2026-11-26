@@ -1,0 +1,3 @@
+pip install django djangorestframework
+pip install psycopg[binary] django-cors-headers
+pip install python-dotenv drf-spectacular
